@@ -1,0 +1,14 @@
+F:\ITStep\2 курс\WPF\CW\4) Lists\bin\Debug\4) Lists.exe.config
+F:\ITStep\2 курс\WPF\CW\4) Lists\bin\Debug\4) Lists.exe
+F:\ITStep\2 курс\WPF\CW\4) Lists\bin\Debug\4) Lists.pdb
+F:\ITStep\2 курс\WPF\CW\4) Lists\obj\Debug\4) Lists.csprojAssemblyReference.cache
+F:\ITStep\2 курс\WPF\CW\4) Lists\obj\Debug\MainWindow.g.cs
+F:\ITStep\2 курс\WPF\CW\4) Lists\obj\Debug\App.g.cs
+F:\ITStep\2 курс\WPF\CW\4) Lists\obj\Debug\4) Lists_MarkupCompile.cache
+F:\ITStep\2 курс\WPF\CW\4) Lists\obj\Debug\4) Lists_MarkupCompile.lref
+F:\ITStep\2 курс\WPF\CW\4) Lists\obj\Debug\MainWindow.baml
+F:\ITStep\2 курс\WPF\CW\4) Lists\obj\Debug\4) Lists.g.resources
+F:\ITStep\2 курс\WPF\CW\4) Lists\obj\Debug\_4__Lists.Properties.Resources.resources
+F:\ITStep\2 курс\WPF\CW\4) Lists\obj\Debug\4) Lists.csproj.GenerateResource.cache
+F:\ITStep\2 курс\WPF\CW\4) Lists\obj\Debug\4) Lists.exe
+F:\ITStep\2 курс\WPF\CW\4) Lists\obj\Debug\4) Lists.pdb
